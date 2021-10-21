@@ -2,7 +2,8 @@
 multi-threaded chat server 
 
 (It uses posix threads.)
-#compiliationg
+
+# compilation
 compile it with 
 
 > $ g++ -o mtchat mtchat.c -lpthread
